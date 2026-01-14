@@ -1,5 +1,5 @@
 # FUTURE_DS_03
-[![Open In Colab](https://colab.research.google.com/drive/1VD2l_1OKgGzMxKkhXs_-7IQYkqB1Ekid?usp=sharing)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VD2l_1OKgGzMxKkhXs_-7IQYkqB1Ekid?usp=sharing)
 Analyzing student feedback using Python and NLP to improve campus events.
 # 📊 College Event Feedback Analysis
 *Internship Project - Task 3*
